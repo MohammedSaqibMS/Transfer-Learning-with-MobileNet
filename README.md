@@ -69,10 +69,6 @@ def data_augmenter():
     ])
 ```
 
-Augmented images showcase the variety added to the dataset:
-
-![Augmented Images](augmented_images.png)
-
 ---
 
 ## 🧠 Transfer Learning with MobileNetV2
